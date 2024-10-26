@@ -6,6 +6,6 @@ categories: opinion
 linkable: true
 ---
 
-New event coming soon... [^1]
+Events coming soon... [^1]
 
-[^1]: There will be free swag.
+[^1]: There will be swag.
