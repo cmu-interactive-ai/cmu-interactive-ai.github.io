@@ -16,7 +16,8 @@
 .post-link {
   color: $text-color;
   display: flex;
-  flex-direction: column-reverse;
+  flex-direction: row;  // Change from column-reverse to row
+  justify-content: space-between;
   text-decoration: none;
   padding: .25em;
   transition: opacity .125s ease-in-out;
@@ -24,13 +25,8 @@
   &:focus {
     opacity: 1 !important;
   }
-  @media (min-width: $on-tablet) {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    .post-date {
-      margin-left: auto;
-    }
+  .post-date {
+    margin-left: auto;
   }
 }
 
