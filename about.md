@@ -12,7 +12,7 @@ You can reach us at [interactiveaiteam@gmail.com](mailto:interactiveaiteam@gmail
 <figure>
   <img alt="iai sticker" src="/assets/images/sticker-photo.png" style="width: 30%;" />
   <figcaption>
-    Our sticker
+    iai sticker
   </figcaption>
 </figure>
 
