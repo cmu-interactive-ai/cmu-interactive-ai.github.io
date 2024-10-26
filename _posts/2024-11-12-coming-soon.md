@@ -2,7 +2,7 @@
 layout: post
 title: "Coming Soon..."
 author: "David"
-categories: opinion
+categories: event
 linkable: true
 ---
 
