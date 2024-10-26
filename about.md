@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: What is iai?
 ---
 
 We are a working group led by [PhD students at CMU](https://hcii.cmu.edu/people/phd-students) interested in research on **interactive AI tools and interfaces**. We invite speakers and do paper sharing sessions on the latest research in the field.
