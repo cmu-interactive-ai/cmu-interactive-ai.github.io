@@ -3,18 +3,16 @@ layout: post
 title: About
 ---
 
-We are working group led by [PhD students at CMU](https://hcii.cmu.edu/people/phd-students) exploring research in interactive AI tools and interfaces.
+We are working group led by [PhD students at CMU](https://hcii.cmu.edu/people/phd-students) exploring research in **interactive AI tools and interfaces**. We invite guest speakers and do paper sharing sessions on the latest research in the field.
 
-From time to time, we host guest speakers working and hold paper sharing sessions on the latent research in the field.
 
-Join us in person at [Newell-Simon Hall 4513] (https://maps.app.goo.gl/4uwWcsNJgdwPpRg78) on campus or virtually on Zoom.
+Stay tuned for upcoming events on the homepage and feel free to [contact us](mailto:interactiveaiteam@gmail.com) if you are interested in contributing! We meet in-person at [Newell-Simon Hall 4513](https://maps.app.goo.gl/4uwWcsNJgdwPpRg78) and virtually.
 
-Stay tuned for upcoming events on the homepage and feel free to [contact us](mailto:interactiveaiteam@gmail.com) if you are interested in contributing!
 
 <figure>
   <img alt="iai sticker" src="/assets/images/sticker-photo.png" style="width: 50%;" />
   <figcaption>
-    Interactive AI sticker
+    Our sticker
   </figcaption>
 </figure>
 
