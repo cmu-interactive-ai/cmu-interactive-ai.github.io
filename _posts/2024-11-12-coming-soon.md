@@ -6,6 +6,6 @@ categories: event
 linkable: true
 ---
 
-Events coming soon... [^1]
+Coming soon... [^1]
 
 [^1]: There will be swag.
