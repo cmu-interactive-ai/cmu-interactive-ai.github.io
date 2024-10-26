@@ -3,11 +3,9 @@ layout: post
 title: "Coming Soon..."
 author: "David"
 categories: opinion
-linkable: false
+linkable: true
 ---
 
-Coming soon... [^1]
+New event coming soon... [^1]
 
-[Website](https://cmu-interactive-ai.github.io/)
-
-[^1]: This is some text for a footnote.
+[^1]: There will be free swag.
