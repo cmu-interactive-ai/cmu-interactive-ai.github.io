@@ -22,8 +22,9 @@
 
 .post p {
   text-align: justify;
-  text-indent: 1.5em;
+  text-indent: 0;  // Remove text indentation
   text-justify: inter-word;
+  margin-bottom: 1.5em;  // Add vertical spacing between paragraphs
 }
 
 .post p:first-of-type,
