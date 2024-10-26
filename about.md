@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-We are working group led by [PhD students at CMU](https://hcii.cmu.edu/people/phd-students) interested in research on **interactive AI tools and interfaces**. We invite speakers and do paper sharing sessions on the latest research in the field.
+We are a working group led by [PhD students at CMU](https://hcii.cmu.edu/people/phd-students) interested in research on **interactive AI tools and interfaces**. We invite speakers and do paper sharing sessions on the latest research in the field.
 
 Please see upcoming and past events on the homepage. We meet in-person at [Newell-Simon Hall 4513](https://maps.app.goo.gl/4uwWcsNJgdwPpRg78) and virtually.
 
